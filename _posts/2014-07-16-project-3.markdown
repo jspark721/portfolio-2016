@@ -1,15 +1,13 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Blocipedia
+subtitle: Website Application
 layout: default
 modal-id: 3
-date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+tools: Ruby on Rails, HTML, CSS, AJAX, jQuery, Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A rails web applications that allows users to sign up for a standard account and create, view, and update public markdown-based wikis. Stripe payment solution was implemented for users who want to upgrade to premium membership. Premium members can create private wikis. Premium users can add and remove collaborators to view and edit on their private wikis. Authorization and Authentication was created using Devise and Pundit.
 
 ---

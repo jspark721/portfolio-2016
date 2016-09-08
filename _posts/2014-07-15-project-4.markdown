@@ -1,15 +1,13 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: BlocJams
+subtitle: Website Application
 layout: default
 modal-id: 4
-date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+tools: JavaScript, AngularJS, jQuery, HTML, CSS, Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: o	A music application that allows users to play music and use interactive scroll bars and volume controls on the music player. It was implemented with basic HTML and CSS and dynamic functionality was added to the application using jQuery and AngularJS. BlocJams is a single page application (SPA) and is also mobile view friendly. This was a useful introdocution project to front-end development and web design fundamentals with the use of CSS3 animation, media queries and transitions.
 
 ---

@@ -1,15 +1,12 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Reminder
+subtitle: Website Application
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+tools: Ruby on Rails, HTML, CSS, AJAX, jQuery, Bootstrap
+category: Rails Web Development
+description: A simple weekly To-Do web application that allows users to create to-do lists. This application was made using Ruby on Rails and external API with authentication. The user can create user accounts, sign in and create to-do lists and to-do items to remind them to get things done! If the user does not complete the to-do item within 7 days, it will automatically delete the item using rake automation. (add heroku and github links & change picture)
 ---

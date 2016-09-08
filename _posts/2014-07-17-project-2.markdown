@@ -1,15 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Bloccit
+subtitle: Website Application
 layout: default
 modal-id: 2
-date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+tools: Ruby on Rails, jQuery, AJAX, HTML, CSS, Bootstrap 
+category: Rails Web Development
+description: A reddit replica web application that allows users to create posts, leave comments, and vote posts up or down. Users can sign up and create an account. Custom made authentication and authorization was used to help understand the power of restricting access to rails controllers. AJAX was used for commenting and voting on posts. Test Driven Development (TDD) was incredibly helpful and useful to test the work. This project was a launching pad and a learning experience to create new and better rails application.
 ---
