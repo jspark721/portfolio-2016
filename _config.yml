@@ -15,8 +15,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: -
-  - line: -
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
