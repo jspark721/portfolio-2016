@@ -807,6 +807,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    text-align: left;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -819,6 +820,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+    text-align: left;
 }
 
 .portfolio-modal .modal-content img {
