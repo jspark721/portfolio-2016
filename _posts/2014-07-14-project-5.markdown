@@ -3,8 +3,8 @@ title: Amazon Alexa Project
 subtitle: Alexa Voice Service 
 layout: default
 modal-id: 5
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: alexa.png
+thumbnail: alexa-thumbnail.png
 alt: image-alt
 tools: Amazon Web Services Lambda, Alexa Skills Kit (ASK), Alexa Voice Service (AVS), NodeJS, JavaScript, Voice Design
 category: Voice Design Application
