@@ -362,7 +362,9 @@ section h3.section-subheading {
 section h3.about {
     text-align: justify;
     margin-left: -50px;
-    width: 105%;
+    width: 107%;
+    font-size: 17px;
+    line-height: 20px;
 }
 
 @media(min-width:768px) {
@@ -704,7 +706,7 @@ section#contact .form-group input.form-control {
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 155px;
 }
 
 section#contact .form-control:focus {
