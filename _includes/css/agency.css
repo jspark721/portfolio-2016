@@ -361,6 +361,8 @@ section h3.section-subheading {
 
 section h3.about {
     text-align: justify;
+    margin-left: -50px;
+    width: 105%;
 }
 
 @media(min-width:768px) {
@@ -524,6 +526,7 @@ section h3.about {
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
     font-size: 10px;
+    text-align: center;
     line-height: 14px;
 }
 
