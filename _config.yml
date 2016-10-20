@@ -1,0 +1,29 @@
+url: jspark721.github.io
+baseurl: ""
+
+# Site settings
+title: Julie Park | Portfolio
+email: jspark721@gmail.com
+description: "Julie Park Portfolio"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/jspark721
+  - title: twitter
+    url: http://twitter.com/juliepark
+  - title: linkedin
+    url: http://www.linkedin.com/in/jspark721
+  - title: instagram
+    url: http://instagram.com/julieeparkk
+
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

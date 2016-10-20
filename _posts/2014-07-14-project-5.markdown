@@ -1,0 +1,14 @@
+---
+title: Amazon Alexa Project
+subtitle: Alexa Voice Service 
+layout: default
+modal-id: 5
+img: alexa.png
+thumbnail: alexa-thumbnail.png
+alt: image-alt
+tools: Amazon Web Services Lambda, Alexa Skills Kit (ASK), Alexa Voice Service (AVS), NodeJS, JavaScript, Voice Design
+category: Voice Design Application
+description: Using the Alexa Skills Kit, I built two Alexa Skills now live and available for download on the Alexa Platform. The first skill was a Healthy Food Fact Skill where the user can ask Alexa to give them a random fact about Healthy Food. The second skill was the Seahawks Fan Trivia Skill where Alexa asks the user a question about the Seahawks and the user can answer. It's a fun, short trivia game perfect for fans who want to know more about the Seahawks! <br /><br /> I am in the process of designing and developing more Alexa skills that can utilize API to retrieve bigger database and create a better user experience.
+
+---
+

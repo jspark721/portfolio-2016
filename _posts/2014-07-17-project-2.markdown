@@ -1,0 +1,12 @@
+---
+title: Bloccit
+subtitle: Website Application
+layout: default
+modal-id: 2
+img: bloccit.png
+thumbnail: bloccit-thumbnail.png
+alt: image-alt
+tools: Ruby on Rails, jQuery, AJAX, HTML, CSS, Bootstrap 
+category: Rails Web Development
+description: A reddit replica web application that allows users to create posts, leave comments, and vote posts up or down. Users can sign up and create an account. Custom made authentication and authorization was used to help understand the power of restricting access to rails controllers. AJAX was used for commenting and voting on posts. Test Driven Development (TDD) was incredibly helpful and useful to test the work. This project was a launching pad and a learning experience to create new and better rails application.
+---
