@@ -361,15 +361,24 @@ section h3.section-subheading {
 
 section h3.about {
     text-align: justify;
-    margin-left: 25px;
     width: 107%;
     font-size: 17px;
     line-height: 20px;
 }
 
-@media(min-width:768px) {
+.about-img {
+    max-width: 380px;
+}
+
+
+@media(min-width:408px) {
     section {
         padding: 150px 0;
+    }
+    .about-img{
+        height: auto;
+        width: auto;
+        margin: 0 auto;
     }
 }
 
