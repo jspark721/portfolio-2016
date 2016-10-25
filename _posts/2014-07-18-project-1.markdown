@@ -8,5 +8,7 @@ thumbnail: reminder-thumbnail.png
 alt: image-alt
 tools: Ruby on Rails, HTML, CSS, AJAX, jQuery, Bootstrap
 category: Rails Web Development
-description: A simple weekly To-Do web application that allows users to create to-do lists. This application was made using Ruby on Rails and external API with authentication. The user can create user accounts, sign in and create to-do lists and to-do items to remind them to get things done! If the user does not complete the to-do item within 7 days, it will automatically delete the item using rake automation. (add heroku and github links & change picture)
+demo: Reminder App
+demo-url: https://reminder-todo-app.herokuapp.com/
+description: A simple weekly To-Do web application that allows users to create to-do lists. This application was made using Ruby on Rails and external API with authentication. The user can create user accounts, sign in and create to-do lists and to-do items to remind them to get things done! If the user does not complete the to-do item within 7 days, it will automatically delete the item using rake automation. 
 ---
