@@ -1,6 +1,6 @@
 ---
 title: Bloccit
-subtitle: Website Application
+subtitle: Rails Application
 layout: default
 modal-id: 2
 img: bloccit.png

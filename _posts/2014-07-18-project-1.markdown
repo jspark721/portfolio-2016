@@ -1,6 +1,6 @@
 ---
 title: Reminder
-subtitle: Website Application
+subtitle: Rails Application
 layout: default
 modal-id: 1
 img: reminder.png

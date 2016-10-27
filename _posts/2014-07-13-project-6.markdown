@@ -1,6 +1,6 @@
 ---
 title: Timer App
-subtitle: Website Application
+subtitle: Web Application
 layout: default
 modal-id: 6
 img: timerapp.png

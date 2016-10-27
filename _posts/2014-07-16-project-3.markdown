@@ -1,6 +1,6 @@
 ---
 title: Blocipedia
-subtitle: Website Application
+subtitle: Rails Application
 layout: default
 modal-id: 3
 img: blocipedia.png

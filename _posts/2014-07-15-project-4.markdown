@@ -1,6 +1,6 @@
 ---
 title: BlocJams
-subtitle: Website Application
+subtitle: Web Application
 layout: default
 modal-id: 4
 img: blocjams.png
