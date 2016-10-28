@@ -7,7 +7,6 @@ img: timerapp.png
 thumbnail: timerapp-thumbnail.png
 alt: image-alt
 tools: JavaScript, AngularJS, Firebase, HTML/CSS, Bootstrap
-category: Front-end Development
 demo: Timer App
 demo-url: https://timerapp-jspark.herokuapp.com/
 description: Have you heard of the Pomodoro Technique? It's a time management method that uses a timer to break down work into intervals of 25 minutes with small breaks in between. The Timer App uses the Pomodoro Technique to help users stay focused and finish their tasks. It records the task history on the side bar to help keep track. <br /><br />According to the Pomodoro Technique, the user is not suppose to pause the timer during the work session. However, in the Timer App, the user can pause the timer and resume. But it will record the number of interruptions every time the user pauses the timer. This way, the user can avoid pausing the timer and maintain efficiency without burning out. The timer includes ding sound once the time is up!

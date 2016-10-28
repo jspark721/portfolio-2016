@@ -7,7 +7,6 @@ img: blocipedia.png
 thumbnail: blocipedia-thumbnail.png
 alt: image-alt
 tools: Ruby on Rails, HTML, CSS, AJAX, jQuery, Bootstrap
-category: Web Development
 demo: Blocipedia
 demo-url: https://blocipedia-jspark.herokuapp.com/
 description: A rails web applications that allows users to sign up for a standard account and create, view, and update public markdown-based wikis. Stripe payment solution was implemented for users who want to upgrade to premium membership. Premium members can create private wikis. Premium users can add and remove collaborators to view and edit on their private wikis. Authorization and Authentication was created using Devise and Pundit.
