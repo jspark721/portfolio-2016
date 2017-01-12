@@ -360,14 +360,14 @@ section h3.section-subheading {
 }
 
 section h3.about {
-    text-align: justify;
-    width: 107%;
-    font-size: 17px;
-    line-height: 20px;
+    text-align: left;
+    width: 90%;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .about-img {
-    max-width: 380px;
+    max-width: 300px;
 }
 
 
